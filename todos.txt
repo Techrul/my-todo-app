@@ -1,0 +1,6 @@
+run
+Play Chess
+play games
+Make pizza
+Update Computer
+stream
